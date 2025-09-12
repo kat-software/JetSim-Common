@@ -1,0 +1,21 @@
+{
+  "name": "software.kat.jetsim.common",
+  "version": "1.0.0",
+  "type": "tool",
+  "displayName": "JetSim - Common",
+  "description": "Common assets and functionality used throughout the JetSim ecosystem.",
+  "author": {
+    "name": "KatSoftware",
+    "email": "contact@kat.software",
+    "url": "https://github.com/kat-software"
+  },
+  "unity": "2019.4",
+  "unityRelease": "31f1",
+  "dependencies": {
+    "com.livedimensions.vrrefassist": "1.0.0"
+  },
+  "keywords": [
+    "katsoftware",
+    "jetsim"
+  ]
+}
