@@ -1,6 +1,6 @@
 {
   "name": "software.kat.jetsim.common",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "type": "tool",
   "displayName": "JetSim - Common",
   "description": "Common assets and functionality used throughout the JetSim ecosystem.",
@@ -17,7 +17,6 @@
   "vpmDependencies": {
     "com.livedimensions.vrrefassist": "1.0.0"
   },
-
   "keywords": [
     "katsoftware",
     "jetsim"
